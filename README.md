@@ -9,7 +9,8 @@
 - **🗓️ Duration**: 30 June 2025 – 30 July 2025  
 - **🌍 Location**: Remote  
 - **📝 Mode**: Project-based with weekly submissions  
-- **🧾 Ref.**: CTI/A1/C180772  
+- **🧾 Offer Confirmed**: Official internship position at Cognifyz Technologies
+  
 
 ---
 
