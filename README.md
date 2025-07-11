@@ -20,7 +20,7 @@
 |---------:|-----------------------------------|:----------|
 | 1        | Basic HTML Page                   | ✅ Done |
 | 1        | Styling with Inline CSS           | ✅ Done |
-| 2        | Responsive Design                 | ⏳ Pending |
+| 2        | Responsive Design                 | ✅ Done |
 | 2        | Interactive Button                | ⏳ Pending |
 | 3        | API Integration                   | ⏳ Pending |
 | 3        | Form Styling and Validation       | ⏳ Pending |

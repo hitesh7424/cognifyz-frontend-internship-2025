@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Interactive Button</title>
+</head>
+
+<body>
+    <div id="wrapper">
+        <div class="container">
+            <h1>Click to change the colour of the buttons</h1>
+            <div class="btn-container">
+                <button onclick="changeBackground('red')" class="btn btn-red">Red</button>
+                <button onclick="changeBackground('yellow')" class="btn btn-yellow">Yellow</button>
+                <button onclick="changeBackground('Blue')" class="btn btn-blue">Blue</button>
+                <button onclick="changeBackground('White')" class="btn btn-blue">White</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function changeBackground(colour) {
+            document.body.style.backgroundColor = colour;
+        }
+    </script>
+</body>
+
+</html>
