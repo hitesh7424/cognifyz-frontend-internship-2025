@@ -13,17 +13,20 @@
         <div class="container">
             <h1>Click to change the colour of the buttons</h1>
             <div class="btn-container">
-                <button onclick="changeBackground('red')" class="btn btn-red">Red</button>
-                <button onclick="changeBackground('yellow')" class="btn btn-yellow">Yellow</button>
-                <button onclick="changeBackground('Blue')" class="btn btn-blue">Blue</button>
-                <button onclick="changeBackground('White')" class="btn btn-blue">White</button>
+                <button onclick="changeBackground('red')" class="btn btn-red">RED</button>
+                <button onclick="changeBackground('yellow')"class="btn btn-yellow">YELLOW</button>
+                <button onclick="changeBackground('blue')"class="btn btn-blue">BLUE</button>
+                <button onclick="changeBackground('white')"  class="btn btn-white">WHITE</button>
+                <button onclick="changeBackground('brown')" class="btn btn-brown">BROWN</button>
             </div>
         </div>
     </div>
 
     <script>
         function changeBackground(colour) {
-            document.body.style.backgroundColor = colour;
+            // document.body.style.backgroundColor = colour;
+            const wrapper = document.getElementById('wrapper');
+            wrapper.style.backgroundColor = colour;
         }
     </script>
 </body>

@@ -21,7 +21,7 @@
 | 1        | Basic HTML Page                   | ✅ Done |
 | 1        | Styling with Inline CSS           | ✅ Done |
 | 2        | Responsive Design                 | ✅ Done |
-| 2        | Interactive Button                | ⏳ Pending |
+| 2        | Interactive Button                | ✅ Done |
 | 3        | API Integration                   | ⏳ Pending |
 | 3        | Form Styling and Validation       | ⏳ Pending |
 | 4        | Component-Based Styling           | ⏳ Pending |
